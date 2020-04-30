@@ -6,7 +6,7 @@
   "homepage": "http://billhong6981.github.io/Calculator-React-Redux",
   "dependencies": {
     "html-webpack-plugin": "^2.30.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.5.0",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
